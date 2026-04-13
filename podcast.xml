@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Hermes Commute Demo</title>
-    <link>https://raw.githubusercontent.com/qaqcvc/hermes-podcast-demo/main/podcast.xml</link>
+    <link>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/podcast.xml</link>
     <language>zh-cn</language>
     <itunes:author>Hermes</itunes:author>
     <description>用于测试 Apple Podcasts 手动添加 RSS 的 1 分钟示例节目。</description>
@@ -11,9 +11,9 @@
     <item>
       <title>第 1 期：信息输入与知识整理</title>
       <description>1 分钟中文通勤播客测试音频。</description>
-      <guid>https://raw.githubusercontent.com/qaqcvc/hermes-podcast-demo/main/episode-001.mp3</guid>
-      <pubDate>Mon, 13 Apr 2026 20:45:01 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/qaqcvc/hermes-podcast-demo/main/episode-001.mp3" length="389952" type="audio/mpeg"/>
+      <guid>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episode-001.mp3</guid>
+      <pubDate>Mon, 13 Apr 2026 20:46:12 GMT</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episode-001.mp3" length="389952" type="audio/mpeg"/>
       <itunes:duration>00:01:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
