@@ -2,17 +2,19 @@
   "german": {
     "level": "B1",
     "focus": "daily life expressions and practical conversation",
-    "episode_count": 1,
+    "episode_count": 2,
     "last_topics": [
-      "看病与预约：描述症状、预约时间、改约、病假证明"
+      "看病与预约：描述症状、预约时间、改约、病假证明",
+      "租房与报修：描述故障、联系房东/物业、预约维修时间"
     ]
   },
   "korean": {
     "level": "advanced beginner",
     "focus": "daily life expressions beyond the most basic phrases",
-    "episode_count": 1,
+    "episode_count": 2,
     "last_topics": [
-      "咖啡店与便利店：点单、少冰少糖、打包、分开结账、加热"
+      "咖啡店与便利店：点单、少冰少糖、打包、分开结账、加热",
+      "地铁与问路：换乘、出口、坐过站、交通卡充值"
     ]
   }
 }

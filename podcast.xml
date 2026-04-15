@@ -9,6 +9,16 @@
     <itunes:summary>每日中文通勤播客：全球/德国/中国/AI/中国足球新闻，加上德语与韩语学习。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>2026-04-15｜油价连续回落但霍尔木兹航运仍未恢复常态</title>
+      <link>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-15-episode.mp3</link>
+      <description>重点：油价回落但霍尔木兹封锁与航运仍紧张、德国与乌克兰无人机防务合作、中国强调中东秩序与能源合作、Anthropic Mythos安全争议与治理、国安申诉与成都蓉城热度；德语主题：租房与报修；韩语主题：地铁问路与换乘。</description>
+      <guid>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-15-episode.mp3</guid>
+      <pubDate>Wed, 15 Apr 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-15-episode.mp3" length="15717405" type="audio/mpeg" />
+      <itunes:duration>00:43:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2026-04-14｜霍尔木兹海峡风险继续扰动全球油价预期</title>
       <link>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-14-episode.mp3</link>
       <description>重点：霍尔木兹风险与油价、德国燃油减负与汉莎罢工、中国对脆弱停火表态与一季度经济预期、AI模型安全监管、中超成都蓉城；德语主题：看病与预约；韩语主题：咖啡店与便利店点单升级。</description>
@@ -20,6 +30,7 @@
     </item>
     <item>
       <title>第 1 期：信息输入与知识整理</title>
+      <link>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episode-001.mp3</link>
       <description>1 分钟中文通勤播客测试音频。</description>
       <guid>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episode-001.mp3</guid>
       <pubDate>Mon, 13 Apr 2026 20:46:12 GMT</pubDate>
