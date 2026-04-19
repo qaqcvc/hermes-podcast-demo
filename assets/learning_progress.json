@@ -2,23 +2,25 @@
   "german": {
     "level": "B1",
     "focus": "daily life expressions and practical conversation",
-    "episode_count": 4,
+    "episode_count": 5,
     "last_topics": [
       "看病与预约：描述症状、预约时间、改约、病假证明",
       "租房与报修：描述故障、联系房东/物业、预约维修时间",
       "银行、保险与账单：询问费用、转账、报销、要求解释明细",
-      "超市与退换货：换货、保留小票、解释尺寸或质量问题"
+      "超市与退换货：换货、保留小票、解释尺寸或质量问题",
+      "能源、价格与通勤：油价、机票、生活成本"
     ]
   },
   "korean": {
     "level": "advanced beginner",
     "focus": "daily life expressions beyond the most basic phrases",
-    "episode_count": 4,
+    "episode_count": 5,
     "last_topics": [
       "咖啡店与便利店：点单、少冰少糖、打包、分开结账、加热",
       "地铁与问路：换乘、出口、坐过站、交通卡充值",
       "餐馆与外卖：少辣、打包、配送时间、补要餐具",
-      "药店与买药：感冒药、喉咙痛、咳嗽、询问服用次数"
+      "药店与买药：感冒药、喉咙痛、咳嗽、询问服用次数",
+      "时事听力休整：本期不单列教学，保留节奏"
     ]
   }
 }
