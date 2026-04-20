@@ -1,14 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Hermes Commute Demo</title>
     <link>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/podcast.xml</link>
     <language>zh-cn</language>
     <itunes:author>Hermes</itunes:author>
-    <description>每日中文通勤播客：全球/德国/中国/AI/中国足球新闻，加上德语与韩语学习。</description>
-    <itunes:summary>每日中文通勤播客：全球/德国/中国/AI/中国足球新闻，加上德语与韩语学习。</itunes:summary>
+    <description>每日中文通勤播客，聚焦过去24小时值得知道的全球、德国、中国与AI电力基础设施动态，并附简短德语韩语学习段。</description>
+    <itunes:summary>每日中文通勤播客，聚焦过去24小时值得知道的全球、德国、中国与AI电力基础设施动态，并附简短德语韩语学习段。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <item><title>2026-04-19｜霍尔木兹有限通航、德国能源分歧、中国稳增长继续加码</title><link>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-19-episode.mp3</link><description>重点：霍尔木兹恢复有限通航但风险未散、德国能源转型抗议与煤油短缺分歧、中国提出扩内需与AI plus、Anthropic与OpenAI企业化竞争、AI数据中心接网与电力约束；足球段简报中超仍处走势塑造期。</description><guid>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-19-episode.mp3</guid><pubDate>Sun, 19 Apr 2026 04:00:00 +0000</pubDate><enclosure url="https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-19-episode.mp3" length="1727280" type="audio/mpeg" /><itunes:duration>00:04:48</itunes:duration><itunes:explicit>false</itunes:explicit></item>
-    <item><title>2026-04-18｜美国对伊朗封锁继续、德国汉莎罢工暂缓、广交会感到战争冲击</title><link>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-18-episode.mp3</link><description>重点：美国继续对伊朗施压、缅甸减刑与罗兴亚海上死亡创新高、德国汉莎罢工暂缓与移民政策争论、广交会感到战争外溢、DeepSeek融资传闻、Google把AI更深塞进Chrome、美国AI数据中心并网与电力瓶颈；德语主题：超市与退换货；韩语主题：药店与买药。</description><guid>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-18-episode.mp3</guid><pubDate>Sat, 18 Apr 2026 04:00:00 +0000</pubDate><enclosure url="https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-18-episode.mp3" length="2969805" type="audio/mpeg" /><itunes:duration>00:08:14</itunes:duration><itunes:explicit>false</itunes:explicit></item>
+    <item>
+      <title>2026-04-20｜霍尔木兹风险未退、德国油价争议升温、AI开始争电</title>
+      <description>7分半中文通勤简报：霍尔木兹海峡风险、德国燃油价格争议、中国与美国口头交锋、AI数据中心电力与成本之争，并附简短德语韩语实用句。</description>
+      <guid>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-20-episode.mp3</guid>
+      <pubDate>Mon, 20 Apr 2026 04:00:00 GMT</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-20-episode.mp3" length="7242285" type="audio/mpeg"/>
+      <itunes:duration>00:07:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026-04-19｜霍尔木兹有限通航、德国能源分歧、中国稳增长继续加码</title>
+      <description>重点：霍尔木兹恢复有限通航但风险未散、德国能源转型抗议与煤油短缺分歧、中国提出扩内需与AI plus、Anthropic与OpenAI企业化竞争、AI数据中心接网与电力约束；足球段简报中超仍处走势塑造期。</description>
+      <guid>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-19-episode.mp3</guid>
+      <pubDate>Sun, 19 Apr 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-19-episode.mp3" length="1727280" type="audio/mpeg"/>
+      <itunes:duration>00:04:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026-04-18｜美国对伊朗封锁继续、德国汉莎罢工暂缓、广交会感到战争冲击</title>
+      <description>重点：美国继续对伊朗施压、缅甸减刑与罗兴亚海上死亡创新高、德国汉莎罢工暂缓与移民政策争论、广交会感到战争外溢、DeepSeek融资传闻、Google把AI更深塞进Chrome、美国AI数据中心并网与电力瓶颈；德语主题：超市与退换货；韩语主题：药店与买药。</description>
+      <guid>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-18-episode.mp3</guid>
+      <pubDate>Sat, 18 Apr 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-18-episode.mp3" length="2969805" type="audio/mpeg"/>
+      <itunes:duration>00:08:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
