@@ -1,14 +1,34 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Hermes Commute Demo</title>
     <link>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/podcast.xml</link>
     <language>zh-cn</language>
     <itunes:author>Hermes</itunes:author>
-    <description>每日中文通勤播客：全球/德国/中国/AI/中国足球新闻，加上德语与韩语学习。</description>
-    <itunes:summary>每日中文通勤播客：全球/德国/中国/AI/中国足球新闻，加上德语与韩语学习。</itunes:summary>
+    <description>中文通勤播客：全球、德国、中国、AI 与语言学习简报。</description>
+    <itunes:summary>中文通勤播客：全球、德国、中国、AI 与语言学习简报。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <item><title>2026-04-22｜霍尔木兹降温但能源和AI电力约束仍在</title><link>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-22-episode.mp3</link><description>重点：霍尔木兹短期风险缓和、德国继续关注海峡安全和航空成本、中国聚焦稳增长与制造升级、AI 数据中心用电与电网约束继续升温，足球段仅做简短跟踪。</description><guid>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-22-episode.mp3</guid><pubDate>Wed, 22 Apr 2026 04:00:00 +0000</pubDate><enclosure url="https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-22-episode.mp3" length="2080080" type="audio/mpeg" /><itunes:duration>00:05:46</itunes:duration><itunes:explicit>false</itunes:explicit></item><item>
+    <item>
+      <title>2026-04-23｜霍尔木兹风险未退、德国航班削减、中国服务业扩能</title>
+      <link>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-23-episode.mp3</link>
+      <description>通勤简报：全球、德国、中国、AI电力与数据中心、中国足球；附德语和韩语短句。</description>
+      <guid>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-23-episode.mp3</guid>
+      <pubDate>Thu, 23 Apr 2026 04:09:05 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-23-episode.mp3" length="2611965" type="audio/mpeg" />
+      <itunes:duration>00:07:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026-04-22｜霍尔木兹降温但能源和AI电力约束仍在</title>
+      <link>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-22-episode.mp3</link>
+      <description>重点：霍尔木兹短期风险缓和、德国继续关注海峡安全和航空成本、中国聚焦稳增长与制造升级、AI 数据中心用电与电网约束继续升温，足球段仅做简短跟踪。</description>
+      <guid>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-22-episode.mp3</guid>
+      <pubDate>Wed, 22 Apr 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-22-episode.mp3" length="2080080" type="audio/mpeg" />
+      <itunes:duration>00:05:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>2026-04-21｜霍尔木兹仍高风险通行、德国煤油预警、中国首季开局稳住</title>
       <link>https://cdn.jsdelivr.net/gh/qaqcvc/hermes-podcast-demo@main/episodes/2026-04-21-episode.mp3</link>
       <description>重点：霍尔木兹只是部分恢复通行、德国称供应暂稳但煤油与燃油价格承压、中国一季度外贸与高技术制造数据稳中向好、美国AI数据中心把电网与并网能力推上前台；足球段聚焦中超伤病、重建和中甲冲超势头。</description>
